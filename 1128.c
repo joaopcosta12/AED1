@@ -2,7 +2,7 @@
 #include <string.h>
 
 #define MAX 2005
-
+ 
 int grafo[MAX][MAX];
 int transposto[MAX][MAX];
 int visitados[MAX];
